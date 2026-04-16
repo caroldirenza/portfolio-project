@@ -1,7 +1,7 @@
 # LinkedIn Posts – Sam Dunning
 
 ## Post 1
-- Date: Recent
+- Date: 2d (14-04-2026)
 - URL: https://www.linkedin.com/posts/samdunning_when-not-to-do-seoaeo-3-real-scenarios-activity-7449539482682343424-Dzae
 
 When NOT to do SEO/AEO (3 real scenarios for SaaS).
@@ -18,7 +18,7 @@ SEO is solid for building mind-share from prospects constantly seeing your brand
 ---
 
 ## Post 2
-- Date: Recent
+- Date: 17h (15-04-2026)
 - URL: https://www.linkedin.com/posts/samdunning_what-riding-a-camel-taught-me-about-saas-activity-7450153440564899841-1dtv
 
 What riding a camel taught me about SaaS marketing: Great SEO/AEO never deserts your pipeline.
