@@ -1,7 +1,7 @@
 # LinkedIn Posts – Chris Walker
 
 ## Post 1
-- Date: Recent
+- Date: 8 months ago
 - URL: https://www.linkedin.com/posts/chriswalker171_its-the-end-of-an-era-ive-exited-refine-activity-7353416803449995267-gLO-
 
 It's the end of an era: I've exited Refine Labs.
