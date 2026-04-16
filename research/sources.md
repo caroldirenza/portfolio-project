@@ -15,10 +15,10 @@
 - YouTube: https://www.youtube.com/@davegerhardt
 - Why: Founder of DGMG community. One of the most followed B2B marketing voices, uses YouTube as a core content channel.
 
-## 4. Gaetano DiNardi
+## 4. Dan Martell
 - Platform: YouTube & LinkedIn
-- LinkedIn: https://www.linkedin.com/in/gaetanodinardi/
-- Why: Ex-VP Marketing at Nextiva and Sardine. Known for practical, no-fluff B2B demand gen and content strategy advice.
+- YouTube: https://www.youtube.com/@danmartell
+- Why: Founder of SaaS Academy. One of the most well-known coaches for B2B SaaS founders, uses YouTube extensively to teach scaling strategies.
 
 ## 5. Brendan Hufford
 - Platform: YouTube & LinkedIn
