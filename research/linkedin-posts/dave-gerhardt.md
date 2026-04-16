@@ -1,7 +1,7 @@
 # LinkedIn Posts – Dave Gerhardt
 
 ## Post 1
-- Date: Recent
+- Date: 16h (15-04-2026)
 - URL: https://www.linkedin.com/posts/davegerhardt_i-think-were-building-the-best-community-activity-7450175699140775936-Qxpy
 
 I think we're building the best community for B2B VPs / CMOs.
